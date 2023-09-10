@@ -1,0 +1,45 @@
+body {background-image:url(../imagenes/paisajefrancia.jpg);}
+.subrojo {color: red;
+font-family: georgia;
+ font-size: 25px;
+ text-align: left;
+ text-decoration: underline;}
+
+.titulo {color:blue;
+ font-size: 40px;
+font-family: georgia;
+font-weight: 900;
+font-size: 48pt;
+text-shadow:
+    3px 3px 1px red,
+    5px 5px 2px white,
+    8px 8px 3px blue;
+ text-align: center;
+ text-decoration: underline;}
+
+.ingredientes {color: white;
+ font-size: 18px;
+ font-family: georgia;
+ text-align: left;
+ font-style: italic;}
+
+.preparacion {color: white;
+ font-size: 18px;
+font-family: georgia;
+ text-align: left;
+font-style: italic;}
+
+.video {color: white;
+font-size: 18px;
+ font-family: georgia;
+text-align: left;
+ font-style: italic;
+text-decoration: underline;
+color: red;}
+
+.maps {color:blue;
+ font-size: 18px;
+font-family: georgia;
+ text-align: left;
+ font-style: italic;
+ text-decoration: underline;}
